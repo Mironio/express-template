@@ -2,6 +2,6 @@ POST http://localhost:3000/test
 Content-Type: application/json
 
 {
-  "id": 999,
-  "value": "content"
+  "age": 999,
+  "name": "content"
 }
